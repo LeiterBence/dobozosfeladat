@@ -1,0 +1,63 @@
+body{
+    background: beige;
+    padding: 25px;
+}
+header{
+    margin: auto;
+    padding: 50px;
+    border-left: 2px solid black;
+    width: 1200px;
+    border-right: 2px solid black;
+    border-radius: 10px;
+}
+.doboz1{
+    border: 2px solid black;
+    padding-left: 200px;
+    padding-right: 0px;
+    width: 650px;
+    float: left;
+    margin-top: 25px;
+}
+.doboz2{
+    float: right;
+    border: 2px solid black;
+    padding-right: 200px;
+    padding-left: 0px;
+    width: 650px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.doboz3{
+    padding-right: 500px;
+    padding-left: 500px;
+    clear: both;
+    margin: auto;
+    border-top: 10px solid black;
+    border-bottom: 2px solid black;
+}
+.doboz4{
+    float: left;
+    clear: right;
+    border: 2px solid black;
+    width: 400px;
+    margin-top: 25px;
+}
+.doboz5{
+    float: right;
+    clear: left;
+    border: 2px solid black;
+    width: 400px;
+    margin-bottom: 25px;
+    
+}
+footer{
+    clear: both;
+    height: 100px;
+    border: 2px solid black;
+    height: 200px;
+}
+.lab{
+    float: right;
+    margin-top: 180px;
+    margin-right: 10px;
+}
