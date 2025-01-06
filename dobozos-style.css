@@ -61,3 +61,11 @@ footer{
     margin-top: 180px;
     margin-right: 10px;
 }
+.doboz6{
+    background-color: aqua;
+    width: 600px;
+    border-radius: 20;
+    margin: auto;
+    justify-content: space-between;
+    text-align: center;
+}
